@@ -9,5 +9,5 @@ Google Developer Student Clubs (GDSC) is a community group for college and unive
 - Management LEAD -> [Ishita Modi](https://github.com/ishitamodi03)
 - PR & Outreach LEAD -> Utkarsh Sharma
 - Cloud LEAD -> [Harshit Mehra](https://github.com/djharshit)
-- Android LEAD -> [Atul Kumar Gupta]
+- Android LEAD -> [Atul Kumar Gupta](https://github.com/theatulgupta)
 
