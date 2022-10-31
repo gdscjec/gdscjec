@@ -1,6 +1,10 @@
-Google Developer Student Clubs (GDSC) is a community group for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 
-**GDSC JEC 2022**
+# Project Title
+
+The Google Developer Student Club (GDSC) is a community group for college and university students interested in Google developer technologies. We welcome students from all undergraduate and graduate programs who are interested in growing as developers. Students who join GDSCs grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses.
+
+## Acknowledgements
+
 - LEAD -> [Ankit Pawar](https://github.com/ankit8453)
 - Machine Learning LEAD -> [Satvik Singh](https://github.com/SA7VIK)
 - Cyber Security LEAD -> [Aditya Muley](https://github.com/Adi-45)
@@ -10,4 +14,3 @@ Google Developer Student Clubs (GDSC) is a community group for college and unive
 - PR & Outreach LEAD -> Utkarsh Sharma
 - Cloud LEAD -> [Harshit Mehra](https://github.com/djharshit)
 - Android LEAD -> [Atul Kumar Gupta](https://github.com/theatulgupta)
-
